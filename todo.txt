@@ -1,4 +1,9 @@
 hello world
 
 
+<<<<<<< HEAD
 my thing didnt come
+=======
+this is a line to show something
+
+>>>>>>> origin/MrBranch
